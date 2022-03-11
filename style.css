@@ -117,3 +117,36 @@ button{
     font-weight: bold;
     text-align: right;
 }
+
+/* sign up section styling */
+
+.signUp{
+    padding: 5% 10%;
+}
+
+.blue-div{
+    border-radius: 10px;
+    background-color: #3882F6;
+    padding: 2.5% 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #F9FAF8;
+}
+
+.call{
+    font-weight: bold;
+}
+
+.blue-div button{
+    border-color: #F9FAF8;
+}
+
+/* footer styling */
+
+footer{
+    background-color: #1F2937;
+    text-align: center;
+    font-size: 14px;
+    color: #E5E7EB;
+}
