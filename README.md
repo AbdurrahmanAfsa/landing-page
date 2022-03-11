@@ -1,4 +1,4 @@
-# odin-css
+# landing-page
 This is my second project, it will be made of html and css only, it will be simple and I hope you like it.
 
 Credits:
