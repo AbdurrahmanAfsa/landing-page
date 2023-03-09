@@ -53,7 +53,7 @@ img{
 
 .info{
     text-align: center;
-    padding: 20px;
+    padding: 60px;
 }
 
 .info>p{
@@ -91,4 +91,19 @@ img{
 
 .quote{
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.word{
+    font-size: 36px;
+    font-style: italic;
+    
+}
+
+.name{
+    align-self: flex-end;
 }
