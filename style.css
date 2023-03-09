@@ -71,7 +71,14 @@ img{
     align-items: center;
 }
 
-.cards div{
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.square{
     border: 2px #3882F6 solid;
     border-radius: 10px;
     height: 200px;
