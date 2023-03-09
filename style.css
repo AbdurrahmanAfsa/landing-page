@@ -121,3 +121,11 @@ img{
     justify-content: space-between;
     align-items: center;
 }
+
+.sign-button button{
+    padding: 10px 30px;
+    background-color: #3882F6;
+    color: white;
+    border:1px solid white;
+    border-radius: 10px;
+}
