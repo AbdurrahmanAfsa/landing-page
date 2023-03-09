@@ -111,3 +111,13 @@ img{
 .sign-up{
     padding: 50px;
 }
+
+.container{
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: white;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
