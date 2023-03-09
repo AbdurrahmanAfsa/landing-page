@@ -107,3 +107,7 @@ img{
 .name{
     align-self: flex-end;
 }
+
+.sign-up{
+    padding: 50px;
+}
